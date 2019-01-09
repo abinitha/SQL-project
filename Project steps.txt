@@ -1,0 +1,9 @@
+- Opened each datafile in Notepad++ in the UTF-8 mode. This highlights all the funny characters. 
+-Upon inspection, some of the characters were used to denote degree farenheit. 
+-Skipping those, I replaced the bad characters which were out of place. 
+
+In Dataset 3- 
+- Replace 5 instances of bad characters
+  Line 10, 15, 201, 203, 239
+- Replace 7 instances of "?" that are also out of place in the dataset 
+  39, 67, 76, 114, 130, 149, 162
